@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Build folders
+obj/
+
+# Ignore bin except assets
+bin/*
+!bin/data/
+!bin/data/**
